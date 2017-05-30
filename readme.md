@@ -76,7 +76,7 @@ The pilot needs to consider the time of day the flight will be conducted and wha
 
 
 
-The weather also affects the effectiveness of a flight as well. First, consumer UAVs are not attended to fly in incliment weather. Second, if the cloud cover is scattered, it can affect the constancy of lighting and ultimately the image quality of the model. However, if the clouds provide a solid overcast, it may be satisfactory conditions. That being said, it should be anticipated that the images will be darker.![DJI_0021](C:\Users\jared\Desktop\School\Spring 2017\GEOG 572 Analytics\mapping_presentation\images\DJI_0021.JPG)
+The weather also affects the effectiveness of a flight as well. First, consumer UAVs are not attended to fly in incliment weather. Second, if the cloud cover is scattered, it can affect the constancy of lighting and ultimately the image quality of the model. However, if the clouds provide a solid overcast, it may be satisfactory conditions. That being said, it should be anticipated that the images will be darker.![DJI_0021](images/DJI_0021.JPG)
 
 
 
