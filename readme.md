@@ -108,7 +108,7 @@ The type of profile (2D vs 3D) and the pilots proficiency will ultimately determ
 
 ![IMG_1855](images/IMG_1855.PNG)
 
-*Interface of the Pix4D Capture (top) and DroneDeploy (bottom) application interface*
+*Interface of the Pix4D Capture (top) and DroneDeploy (bottom) applications*
 
 
 
