@@ -8,7 +8,7 @@ Over the last decade, we have seen a dramatic increase in technology and interes
 
 UAV mapping is a generic term that is used to describe the use of a unmanned platform to produce a model of the surface it has imaged. These products do include orthomosaic photos, elevation models, 3D models, and vegetation indexing (with the appropriate sensor). What makes this possible is the high resolution image that the UAV generates and the position data that is attached to that image. 
 
-![mapping](images/mapping.JPG)
+![mapping](images/mapping.jpg)
 
 Knowing the location and orientation of the photo when it is taken allows, the mapping software to perform the photogrammetry process. **Photogrammetry** is the science of making measurements from photographs, especially for recovering the exact positions of surface points. Photogrammetry is as old as modern photography, dating to the mid-19th century and in the simplest example, the distance between two points that lie on a plane parallel to the photographic [image plane](https://en.wikipedia.org/wiki/Image_plane), can be determined by measuring their distance on the image, if the scale of the image is known.
 
